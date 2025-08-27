@@ -1,2 +1,5 @@
 "use strict";
-console.log("Hello,TypeScript!");
+(function () {
+    var x = "Hello!!";
+    console.log(x);
+})();
